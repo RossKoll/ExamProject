@@ -13,5 +13,4 @@ public class HomePageTest extends BaseTest {
         Assert.assertTrue("Home page is not opened", homePage.isHomePageOpened());
     }
 
-
 }
