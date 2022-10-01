@@ -7,6 +7,7 @@ import org.junit.Before;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import pages.HomePage;
+import pages.TextBoxPage;
 
 public class BaseTest {
 
@@ -14,6 +15,7 @@ public class BaseTest {
     Logger logger = Logger.getLogger(getClass());
 
     protected HomePage homePage;
+    protected TextBoxPage textBoxPage;
 
     @Before
     public void setUp(){
@@ -22,6 +24,7 @@ public class BaseTest {
         driver.manage().window().maximize();
         logger.info("Web browser is opened");
         homePage = new HomePage(driver);
+        textBoxPage = new TextBoxPage(driver);
 
     }
 

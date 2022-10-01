@@ -11,13 +11,7 @@ public class HomePage extends BasePage{
     }
 
     public void openHomePage(){
-        try {
-            driver.get("https://demoqa.com/");
-            logger.info("Home page is opened");
-        }catch (Exception e){
-            logger.info("Home page is not opened");
-            Assert.fail("Home page is not opened");
-        }
+        openPage(URL);
     }
 
     public boolean isHomePageOpened(){

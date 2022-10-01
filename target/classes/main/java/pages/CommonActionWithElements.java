@@ -15,6 +15,15 @@ public class CommonActionWithElements {
         PageFactory.initElements(driver,this);
     }
 
+    public void openPage(String URL){
+        try {
+            driver.get(URL);
+            logger.info("Page + "+ driver.getTitle() + " is opened");
+        }catch (Exception e){
+            printErrorAndStopTest(e);
+        }
+    }
+
     public void clickOnElement(WebElement element){
         try {
             element.click();
