@@ -1,0 +1,83 @@
+2022-27-08 18:45:15   INFO [homePageTest.HomePageTest] : Web browser is opened
+2022-27-08 18:45:15   INFO [pages.HomePage] : Home page is not opened
+2022-27-08 18:45:15   INFO [homePageTest.HomePageTest] : Browser is closed
+2022-27-08 18:47:06   INFO [homePageTest.HomePageTest] : Web browser is opened
+2022-27-08 18:47:06   INFO [pages.HomePage] : Home page is not opened
+2022-27-08 18:47:07   INFO [homePageTest.HomePageTest] : Browser is closed
+2022-27-08 19:02:27   INFO [homePageTest.HomePageTest] : Web browser is opened
+2022-27-08 19:02:57   INFO [pages.HomePage] : Home page is not opened
+2022-27-08 19:02:58   INFO [homePageTest.HomePageTest] : Browser is closed
+2022-27-08 19:04:53   INFO [homePageTest.HomePageTest] : Web browser is opened
+2022-27-08 19:05:00   INFO [pages.HomePage] : Home page is opened
+2022-27-08 19:05:00   INFO [homePageTest.HomePageTest] : Browser is closed
+2022-27-08 19:05:29   INFO [homePageTest.HomePageTest] : Web browser is opened
+2022-27-08 19:05:30   INFO [pages.HomePage] : Home page is opened
+2022-27-08 19:05:30   INFO [homePageTest.HomePageTest] : Browser is closed
+2022-27-08 19:05:45   INFO [homePageTest.HomePageTest] : Web browser is opened
+2022-27-08 19:06:25   INFO [pages.HomePage] : Home page is opened
+2022-27-08 19:06:32   INFO [homePageTest.HomePageTest] : Web browser is opened
+2022-27-08 19:06:38   INFO [pages.HomePage] : Home page is opened
+2022-27-08 19:06:39   INFO [homePageTest.HomePageTest] : Browser is closed
+2022-27-08 19:06:59   INFO [homePageTest.HomePageTest] : Web browser is opened
+2022-27-08 19:07:00   INFO [pages.HomePage] : Home page is opened
+2022-27-08 19:07:01   INFO [homePageTest.HomePageTest] : Browser is closed
+2022-27-08 19:07:54   INFO [homePageTest.HomePageTest] : Web browser is opened
+2022-27-08 19:07:56   INFO [pages.HomePage] : Home page is opened
+2022-27-08 19:07:57   INFO [homePageTest.HomePageTest] : Browser is closed
+2022-27-08 22:39:03   INFO [homePageTest.HomePageTest] : Web browser is opened
+2022-27-08 22:39:04   INFO [pages.HomePage] : Home page is opened
+2022-27-08 22:39:05   INFO [homePageTest.HomePageTest] : Browser is closed
+2022-27-08 22:41:43   INFO [homePageTest.HomePageTest] : Web browser is opened
+2022-27-08 22:41:45   INFO [pages.HomePage] : Home page is opened
+2022-27-08 22:41:46   INFO [homePageTest.HomePageTest] : Browser is closed
+2022-29-08 21:45:34   INFO [textBoxPageTest.TextBoxPageTest] : Web browser is opened
+2022-29-08 21:45:36   INFO [pages.TextBoxPage] : Page + ToolsQA is opened
+2022-29-08 21:45:36   INFO [pages.TextBoxPage] : field : Full Name was filled in with : Ross Ko
+2022-29-08 21:45:36   INFO [pages.TextBoxPage] : field : name@example.com was filled in with : test@gmail.com
+2022-29-08 21:45:36   INFO [pages.TextBoxPage] : field : Current Address was filled in with : Current address
+2022-29-08 21:45:36   INFO [pages.TextBoxPage] : field :  was filled in with : Permanent address
+2022-29-08 21:45:37   INFO [pages.TextBoxPage] : 'Submit' was clicked
+2022-29-08 21:45:37   INFO [textBoxPageTest.TextBoxPageTest] : Browser is closed
+2022-29-08 21:46:34   INFO [homePageTest.HomePageTest] : Web browser is opened
+2022-29-08 21:46:36   INFO [pages.HomePage] : Page + ToolsQA is opened
+2022-29-08 21:46:37   INFO [homePageTest.HomePageTest] : Browser is closed
+2022-29-08 21:46:45   INFO [textBoxPageTest.TextBoxPageTest] : Web browser is opened
+2022-29-08 21:46:48   INFO [pages.TextBoxPage] : Page + ToolsQA is opened
+2022-29-08 21:46:48   INFO [pages.TextBoxPage] : field : Full Name was filled in with : Ross Ko
+2022-29-08 21:46:49   INFO [pages.TextBoxPage] : field : name@example.com was filled in with : test@gmail.com
+2022-29-08 21:46:49   INFO [pages.TextBoxPage] : field : Current Address was filled in with : Current address
+2022-29-08 21:46:49   INFO [pages.TextBoxPage] : field :  was filled in with : Permanent address
+2022-29-08 21:46:50  ERROR [pages.TextBoxPage] : Cannot work with element org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <button id="submit" type="button" class="btn btn-primary">...</button> is not clickable at point (1078, 639). Other element would receive the click: <iframe frameborder="0" src="https://b47589329d3e925e988b5dfcf7d65502.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html" id="google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0" title="3rd party ad content" name="" scrolling="no" marginwidth="0" marginheight="0" width="728" height="90" data-is-safeframe="true" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" role="region" aria-label="Advertisement" tabindex="0" data-google-container-id="1" style="border: 0px; vertical-align: bottom;" data-load-complete="true"></iframe>
+  (Session info: chrome=104.0.5112.102)
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'DESKTOP-J3CBCR0', ip: '192.168.0.151', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [197791dc5e1aa80e31a3df2a29c4c071, clickElement {id=fef55e7e-0aaf-40c3-8c1a-ba68973dfadb}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 104.0.5112.102, chrome: {chromedriverVersion: 104.0.5112.79 (3cf3e8c8a07d..., userDataDir: C:\Users\ross\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:51757}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51757/devtoo..., se:cdpVersion: 104.0.5112.102, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (197791dc5e1aa80e31a3df2a29c4c071)] -> id: submit]
+Session ID: 197791dc5e1aa80e31a3df2a29c4c071
+2022-29-08 21:46:51   INFO [textBoxPageTest.TextBoxPageTest] : Browser is closed
+2022-29-08 21:47:17   INFO [textBoxPageTest.TextBoxPageTest] : Web browser is opened
+2022-29-08 21:47:39   INFO [pages.TextBoxPage] : Page + ToolsQA is opened
+2022-29-08 21:47:39   INFO [pages.TextBoxPage] : field : Full Name was filled in with : Ross Ko
+2022-29-08 21:47:40   INFO [pages.TextBoxPage] : field : name@example.com was filled in with : test@gmail.com
+2022-29-08 21:47:40   INFO [pages.TextBoxPage] : field : Current Address was filled in with : Current address
+2022-29-08 21:47:40   INFO [pages.TextBoxPage] : field :  was filled in with : Permanent address
+2022-29-08 21:47:40   INFO [pages.TextBoxPage] : 'Submit' was clicked
+2022-29-08 21:47:41   INFO [textBoxPageTest.TextBoxPageTest] : Browser is closed
+2022-09-09 20:32:15   INFO [textBoxPageTest.TextBoxPageTest] : Web browser is opened
+2022-09-09 20:32:18   INFO [pages.TextBoxPage] : Page + ToolsQA is opened
+2022-09-09 20:32:18   INFO [pages.TextBoxPage] : field : Full Name was filled in with : Ross Ko
+2022-09-09 20:32:18   INFO [pages.TextBoxPage] : field : name@example.com was filled in with : test@gmail.com
+2022-09-09 20:32:19   INFO [pages.TextBoxPage] : field : Current Address was filled in with : Current address
+2022-09-09 20:32:19   INFO [pages.TextBoxPage] : field :  was filled in with : Permanent address
+2022-09-09 20:32:21  ERROR [pages.TextBoxPage] : Cannot work with element org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <button id="submit" type="button" class="btn btn-primary">...</button> is not clickable at point (1078, 681). Other element would receive the click: <iframe id="google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0" name="google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0" title="3rd party ad content" width="970" height="100" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" role="region" aria-label="Advertisement" tabindex="0" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" style="border: 0px; vertical-align: bottom;" data-load-complete="true" data-google-container-id="1"></iframe>
+  (Session info: chrome=105.0.5195.102)
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'DESKTOP-J3CBCR0', ip: '192.168.0.151', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d015362e772b7612a8b3a66865e4cdda, clickElement {id=4187b168-ac17-496a-b6fe-eec1f7545782}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.102, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\Users\ross\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:50365}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50365/devtoo..., se:cdpVersion: 105.0.5195.102, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (d015362e772b7612a8b3a66865e4cdda)] -> id: submit]
+Session ID: d015362e772b7612a8b3a66865e4cdda
+2022-09-09 20:32:22   INFO [textBoxPageTest.TextBoxPageTest] : Browser is closed
