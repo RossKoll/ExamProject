@@ -81,3 +81,415 @@ Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 1
 Element: [[ChromeDriver: chrome on WINDOWS (d015362e772b7612a8b3a66865e4cdda)] -> id: submit]
 Session ID: d015362e772b7612a8b3a66865e4cdda
 2022-09-09 20:32:22   INFO [textBoxPageTest.TextBoxPageTest] : Browser is closed
+2022-02-10 14:18:23   INFO [checkboxTest.CheckboxTest] : Web browser is opened
+2022-02-10 14:18:24   INFO [pages.CheckBoxPage] : Page + ToolsQA is opened
+2022-02-10 14:18:24  ERROR [pages.CheckBoxPage] : Cannot work with element org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//label[@for='tree-node-downloads']"}
+  (Session info: chrome=105.0.5195.127)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'DESKTOP-BALL94T', ip: '192.168.0.143', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6afba072a27ddc3a0aa420d59259f34f, findElement {using=xpath, value=//label[@for='tree-node-downloads']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.127, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\Users\ross2pc\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:57714}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:57714/devtoo..., se:cdpVersion: 105.0.5195.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6afba072a27ddc3a0aa420d59259f34f
+2022-02-10 14:18:25   INFO [checkboxTest.CheckboxTest] : Browser is closed
+2022-02-10 14:18:54   INFO [checkboxTest.CheckboxTest] : Web browser is opened
+2022-02-10 14:18:55   INFO [pages.CheckBoxPage] : Page + ToolsQA is opened
+2022-02-10 14:20:08   INFO [checkboxTest.CheckboxTest] : Web browser is opened
+2022-02-10 14:20:09   INFO [pages.CheckBoxPage] : Page + ToolsQA is opened
+2022-02-10 14:20:09   INFO [pages.CheckBoxPage] : 'Expand all' was clicked
+2022-02-10 14:20:09   INFO [pages.CheckBoxPage] : '' was clicked
+2022-02-10 14:20:10   INFO [checkboxTest.CheckboxTest] : Browser is closed
+2022-02-10 14:20:42   INFO [checkboxTest.CheckboxTest] : Web browser is opened
+2022-02-10 14:20:43   INFO [pages.CheckBoxPage] : Page + ToolsQA is opened
+2022-02-10 14:20:43   INFO [pages.CheckBoxPage] : 'Expand all' was clicked
+2022-02-10 14:20:43   INFO [pages.CheckBoxPage] : '' was clicked
+2022-02-10 14:20:44   INFO [checkboxTest.CheckboxTest] : Browser is closed
+2022-02-10 14:20:58  ERROR [pages.CheckBoxPage] : Cannot work with element org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//label[@for='tree-node-downloads']"}
+  (Session info: chrome=105.0.5195.127)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'DESKTOP-BALL94T', ip: '192.168.0.143', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c07b27e3690a777d9061183a2d68688f, findElement {using=xpath, value=//label[@for='tree-node-downloads']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.127, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\Users\ross2pc\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:57838}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:57838/devtoo..., se:cdpVersion: 105.0.5195.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c07b27e3690a777d9061183a2d68688f
+2022-02-10 14:21:03   INFO [checkboxTest.CheckboxTest] : Web browser is opened
+2022-02-10 14:21:04   INFO [pages.CheckBoxPage] : Page + ToolsQA is opened
+2022-02-10 14:21:04   INFO [pages.CheckBoxPage] : 'Expand all' was clicked
+2022-02-10 14:21:04   INFO [pages.CheckBoxPage] : '' was clicked
+2022-02-10 14:33:03   INFO [checkboxTest.CheckboxTest] : Web browser is opened
+2022-02-10 14:33:05   INFO [pages.CheckBoxPage] : Page + ToolsQA is opened
+2022-02-10 14:33:05   INFO [pages.CheckBoxPage] : 'Expand all' was clicked
+2022-02-10 14:33:05   INFO [pages.CheckBoxPage] : '' was clicked
+2022-02-10 14:33:20   INFO [checkboxTest.CheckboxTest] : Browser is closed
+2022-02-10 14:34:07   INFO [checkboxTest.CheckboxTest] : Web browser is opened
+2022-02-10 14:34:08   INFO [pages.CheckBoxPage] : Page + ToolsQA is opened
+2022-02-10 14:34:08   INFO [pages.CheckBoxPage] : 'Expand all' was clicked
+2022-02-10 14:34:08   INFO [pages.CheckBoxPage] : '' was clicked
+2022-02-10 14:34:16   INFO [checkboxTest.CheckboxTest] : Browser is closed
+2022-02-10 14:40:53   INFO [checkboxTest.CheckboxTest] : Web browser is opened
+2022-02-10 14:40:54   INFO [pages.CheckBoxPage] : Page + ToolsQA is opened
+2022-02-10 14:40:54   INFO [pages.CheckBoxPage] : 'Expand all' was clicked
+2022-02-10 14:40:54   INFO [pages.CheckBoxPage] : '' was clicked
+2022-02-10 14:44:09   INFO [checkboxTest.CheckboxTest] : Web browser is opened
+2022-02-10 14:44:10   INFO [pages.CheckBoxPage] : Page + ToolsQA is opened
+2022-02-10 14:44:10   INFO [pages.CheckBoxPage] : 'Expand all' was clicked
+2022-02-10 14:44:10   INFO [pages.CheckBoxPage] : '' was clicked
+2022-02-10 14:44:10   INFO [checkboxTest.CheckboxTest] : You have selected :downloadswordFileexcelFile
+2022-02-10 14:47:20   INFO [checkboxTest.CheckboxTest] : Web browser is opened
+2022-02-10 14:47:21   INFO [pages.CheckBoxPage] : Page + ToolsQA is opened
+2022-02-10 14:47:21   INFO [pages.CheckBoxPage] : 'Expand all' was clicked
+2022-02-10 14:47:21   INFO [pages.CheckBoxPage] : '' was clicked
+2022-02-10 14:47:21   INFO [checkboxTest.CheckboxTest] : You have selected :downloadswordFileexcelFile
+2022-02-10 14:47:22   INFO [checkboxTest.CheckboxTest] : Browser is closed
+2022-02-10 14:47:46   INFO [checkboxTest.CheckboxTest] : Web browser is opened
+2022-02-10 14:47:47   INFO [pages.CheckBoxPage] : Page + ToolsQA is opened
+2022-02-10 14:47:47   INFO [pages.CheckBoxPage] : 'Expand all' was clicked
+2022-02-10 14:47:47   INFO [pages.CheckBoxPage] : '' was clicked
+2022-02-10 14:47:48   INFO [checkboxTest.CheckboxTest] : Browser is closed
+2022-02-10 15:11:51   INFO [webTablesTest.WebTablesTest] : Web browser is opened
+2022-02-10 15:11:53   INFO [pages.WebTables] : Page + ToolsQA is opened
+2022-02-10 15:11:53   INFO [pages.WebTables] : 'Add' was clicked
+2022-02-10 15:11:56   INFO [pages.WebTables] : field : First Name was filled in with : Name
+2022-02-10 17:25:37   INFO [webTablesTest.WebTablesTest] : Web browser is opened
+2022-02-10 17:25:38   INFO [pages.WebTables] : Page + ToolsQA is opened
+2022-02-10 17:25:38   INFO [pages.WebTables] : 'Add' was clicked
+2022-02-10 17:25:38   INFO [pages.WebTables] : field : First Name was filled in with : Name
+2022-02-10 17:25:38   INFO [pages.WebTables] : field : Last Name was filled in with : LastName
+2022-02-10 17:25:38   INFO [pages.WebTables] : field : name@example.com was filled in with : fake@email.com
+2022-02-10 17:25:39   INFO [pages.WebTables] : field : Age was filled in with : 33
+2022-02-10 17:25:39   INFO [pages.WebTables] : field : Salary was filled in with : 3500
+2022-02-10 17:46:32   INFO [webTablesTest.WebTablesTest] : Web browser is opened
+2022-02-10 17:46:33   INFO [pages.WebTables] : Page + ToolsQA is opened
+2022-02-10 17:46:33   INFO [pages.WebTables] : 'Add' was clicked
+2022-02-10 17:46:33   INFO [pages.WebTables] : field : First Name was filled in with : firstName
+2022-02-10 17:46:34   INFO [pages.WebTables] : field : Last Name was filled in with : LastName
+2022-02-10 17:46:34   INFO [pages.WebTables] : field : name@example.com was filled in with : fake@email.com
+2022-02-10 17:46:34   INFO [pages.WebTables] : field : Age was filled in with : 33
+2022-02-10 17:46:34   INFO [pages.WebTables] : field : Salary was filled in with : 3500
+2022-02-10 17:46:34   INFO [pages.WebTables] : field : Department was filled in with : IT
+2022-02-10 17:46:34   INFO [pages.WebTables] : 'Submit' was clicked
+2022-02-10 17:46:35   INFO [webTablesTest.WebTablesTest] : Browser is closed
+2022-02-10 17:46:53   INFO [webTablesTest.WebTablesTest] : Web browser is opened
+2022-02-10 17:46:54   INFO [pages.WebTables] : Page + ToolsQA is opened
+2022-02-10 17:46:54   INFO [pages.WebTables] : 'Add' was clicked
+2022-02-10 17:46:54   INFO [pages.WebTables] : field : First Name was filled in with : name
+2022-02-10 17:46:54   INFO [pages.WebTables] : field : Last Name was filled in with : LastName
+2022-02-10 17:46:55   INFO [pages.WebTables] : field : name@example.com was filled in with : fake@email.com
+2022-02-10 17:46:55   INFO [pages.WebTables] : field : Age was filled in with : 33
+2022-02-10 17:46:55   INFO [pages.WebTables] : field : Salary was filled in with : 3500
+2022-02-10 17:46:55   INFO [pages.WebTables] : field : Department was filled in with : IT
+2022-02-10 17:46:55  ERROR [pages.WebTables] : Cannot work with element org.openqa.selenium.WebDriverException: unknown error: unhandled inspector error: {"code":-32000,"message":"Object id doesn't reference a Node"}
+  (Session info: chrome=105.0.5195.127)
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'DESKTOP-BALL94T', ip: '192.168.0.143', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [03d9c5b4e5022c416a8831b9c8e82ff4, getElementAccessibleName {id=55e53d87-539b-44a5-815e-7bfa1505d61b}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.127, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\Users\ross2pc\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:59259}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59259/devtoo..., se:cdpVersion: 105.0.5195.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (03d9c5b4e5022c416a8831b9c8e82ff4)] -> xpath: //button[@id='submit']]
+Session ID: 03d9c5b4e5022c416a8831b9c8e82ff4
+2022-02-10 17:46:56   INFO [webTablesTest.WebTablesTest] : Browser is closed
+2022-02-10 17:47:06   INFO [webTablesTest.WebTablesTest] : Web browser is opened
+2022-02-10 17:47:06   INFO [pages.WebTables] : Page + ToolsQA is opened
+2022-02-10 17:47:07   INFO [pages.WebTables] : 'Add' was clicked
+2022-02-10 17:47:07   INFO [pages.WebTables] : field : First Name was filled in with : firstName
+2022-02-10 17:47:07   INFO [pages.WebTables] : field : Last Name was filled in with : LastName
+2022-02-10 17:47:07   INFO [pages.WebTables] : field : name@example.com was filled in with : fake@email.com
+2022-02-10 17:47:07   INFO [pages.WebTables] : field : Age was filled in with : 33
+2022-02-10 17:47:07   INFO [pages.WebTables] : field : Salary was filled in with : 3500
+2022-02-10 17:47:07   INFO [pages.WebTables] : field : Department was filled in with : IT
+2022-02-10 17:47:07   INFO [pages.WebTables] : 'Submit' was clicked
+2022-02-10 17:47:08   INFO [webTablesTest.WebTablesTest] : Browser is closed
+2022-02-10 18:01:19   INFO [webTablesTest.WebTablesTest] : Web browser is opened
+2022-02-10 18:01:20   INFO [pages.WebTables] : Page + ToolsQA is opened
+2022-02-10 18:01:20   INFO [pages.WebTables] : 'Add' was clicked
+2022-02-10 18:01:20   INFO [pages.WebTables] : field : First Name was filled in with : firstName
+2022-02-10 18:01:20   INFO [pages.WebTables] : field : Last Name was filled in with : LastName
+2022-02-10 18:01:20   INFO [pages.WebTables] : field : name@example.com was filled in with : fake@email.com
+2022-02-10 18:01:21   INFO [pages.WebTables] : field : Age was filled in with : 33
+2022-02-10 18:01:21   INFO [pages.WebTables] : field : Salary was filled in with : 3500
+2022-02-10 18:01:21   INFO [pages.WebTables] : field : Department was filled in with : IT
+2022-02-10 18:01:21  ERROR [pages.WebTables] : Cannot work with element org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//button[@id='submit']"}
+  (Session info: chrome=105.0.5195.127)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'DESKTOP-BALL94T', ip: '192.168.0.143', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e55d5138b627564cf9934db64663f67f, findElement {using=xpath, value=//button[@id='submit']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.127, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\Users\ross2pc\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:60782}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:60782/devtoo..., se:cdpVersion: 105.0.5195.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e55d5138b627564cf9934db64663f67f
+2022-02-10 18:01:21  ERROR [pages.WebTables] : Cannot work with element org.openqa.selenium.WebDriverException: unknown error: unhandled inspector error: {"code":-32000,"message":"Object id doesn't reference a Node"}
+  (Session info: chrome=105.0.5195.127)
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'DESKTOP-BALL94T', ip: '192.168.0.143', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e55d5138b627564cf9934db64663f67f, getElementAccessibleName {id=8abb832e-e644-46ed-b980-25ac1e47ab46}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.127, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\Users\ross2pc\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:60782}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:60782/devtoo..., se:cdpVersion: 105.0.5195.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (e55d5138b627564cf9934db64663f67f)] -> xpath: //div[text()='firstName']/following::span[@title='Delete']]
+Session ID: e55d5138b627564cf9934db64663f67f
+2022-02-10 18:01:22   INFO [webTablesTest.WebTablesTest] : Browser is closed
+2022-02-10 18:02:37   INFO [webTablesTest.WebTablesTest] : Web browser is opened
+2022-02-10 18:02:38   INFO [pages.WebTables] : Page + ToolsQA is opened
+2022-02-10 18:02:38   INFO [pages.WebTables] : 'Add' was clicked
+2022-02-10 18:02:38   INFO [pages.WebTables] : field : First Name was filled in with : firstName
+2022-02-10 18:02:39   INFO [pages.WebTables] : field : Last Name was filled in with : LastName
+2022-02-10 18:02:39   INFO [pages.WebTables] : field : name@example.com was filled in with : fake@email.com
+2022-02-10 18:02:39   INFO [pages.WebTables] : field : Age was filled in with : 33
+2022-02-10 18:02:39   INFO [pages.WebTables] : field : Salary was filled in with : 3500
+2022-02-10 18:02:39   INFO [pages.WebTables] : field : Department was filled in with : IT
+2022-02-10 18:02:39   INFO [pages.WebTables] : 'Submit' was clicked
+2022-02-10 18:02:39  ERROR [pages.WebTables] : Cannot work with element org.openqa.selenium.WebDriverException: unknown error: unhandled inspector error: {"code":-32000,"message":"Object id doesn't reference a Node"}
+  (Session info: chrome=105.0.5195.127)
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'DESKTOP-BALL94T', ip: '192.168.0.143', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [cf315ba1c8e5ce5bb5a7b854428863bd, getElementAccessibleName {id=8737be7c-4e80-4a9a-adbd-d3b4b1389ac3}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.127, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\Users\ross2pc\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:61013}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:61013/devtoo..., se:cdpVersion: 105.0.5195.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (cf315ba1c8e5ce5bb5a7b854428863bd)] -> xpath: //div[text()='firstName']/following::span[@title='Delete']]
+Session ID: cf315ba1c8e5ce5bb5a7b854428863bd
+2022-02-10 18:02:40   INFO [webTablesTest.WebTablesTest] : Browser is closed
+2022-02-10 18:03:07   INFO [webTablesTest.WebTablesTest] : Web browser is opened
+2022-02-10 18:03:09   INFO [pages.WebTables] : Page + ToolsQA is opened
+2022-02-10 18:03:09   INFO [pages.WebTables] : 'Add' was clicked
+2022-02-10 18:03:09   INFO [pages.WebTables] : field : First Name was filled in with : firstName
+2022-02-10 18:03:09   INFO [pages.WebTables] : field : Last Name was filled in with : LastName
+2022-02-10 18:03:09   INFO [pages.WebTables] : field : name@example.com was filled in with : fake@email.com
+2022-02-10 18:03:09   INFO [pages.WebTables] : field : Age was filled in with : 33
+2022-02-10 18:03:09   INFO [pages.WebTables] : field : Salary was filled in with : 3500
+2022-02-10 18:03:09   INFO [pages.WebTables] : field : Department was filled in with : IT
+2022-02-10 18:03:10   INFO [pages.WebTables] : 'Submit' was clicked
+2022-02-10 18:03:10   INFO [webTablesTest.WebTablesTest] : Browser is closed
+2022-02-10 18:04:05   INFO [webTablesTest.WebTablesTest] : Web browser is opened
+2022-02-10 18:04:06   INFO [pages.WebTables] : Page + ToolsQA is opened
+2022-02-10 18:04:06   INFO [pages.WebTables] : 'Add' was clicked
+2022-02-10 18:04:06   INFO [pages.WebTables] : field : First Name was filled in with : firstName
+2022-02-10 18:04:07   INFO [pages.WebTables] : field : Last Name was filled in with : LastName
+2022-02-10 18:04:07   INFO [pages.WebTables] : field : name@example.com was filled in with : fake@email.com
+2022-02-10 18:04:07   INFO [pages.WebTables] : field : Age was filled in with : 33
+2022-02-10 18:04:07   INFO [pages.WebTables] : field : Salary was filled in with : 3500
+2022-02-10 18:04:07   INFO [pages.WebTables] : field : Department was filled in with : IT
+2022-02-10 18:04:07   INFO [pages.WebTables] : 'Submit' was clicked
+2022-02-10 18:04:28  ERROR [pages.WebTables] : Cannot work with element org.openqa.selenium.WebDriverException: unknown error: unhandled inspector error: {"code":-32000,"message":"Object id doesn't reference a Node"}
+  (Session info: chrome=105.0.5195.127)
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'DESKTOP-BALL94T', ip: '192.168.0.143', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b615145059393a299a3443551ff83da1, getElementAccessibleName {id=63923748-41d4-4151-b7a6-9146861cdf0c}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.127, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\Users\ross2pc\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:61363}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:61363/devtoo..., se:cdpVersion: 105.0.5195.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (b615145059393a299a3443551ff83da1)] -> xpath: //div[text()='firstName']/following::span[@title='Delete']]
+Session ID: b615145059393a299a3443551ff83da1
+2022-02-10 18:04:29   INFO [webTablesTest.WebTablesTest] : Browser is closed
+2022-02-10 18:08:33   INFO [webTablesTest.WebTablesTest] : Web browser is opened
+2022-02-10 18:08:34   INFO [pages.WebTables] : Page + ToolsQA is opened
+2022-02-10 18:08:35   INFO [pages.WebTables] : 'Add' was clicked
+2022-02-10 18:08:35   INFO [pages.WebTables] : field : First Name was filled in with : firstName
+2022-02-10 18:08:35   INFO [pages.WebTables] : field : Last Name was filled in with : LastName
+2022-02-10 18:08:35   INFO [pages.WebTables] : field : name@example.com was filled in with : fake@email.com
+2022-02-10 18:08:35   INFO [pages.WebTables] : field : Age was filled in with : 33
+2022-02-10 18:08:35   INFO [pages.WebTables] : field : Salary was filled in with : 3500
+2022-02-10 18:08:35   INFO [pages.WebTables] : field : Department was filled in with : IT
+2022-02-10 18:08:35   INFO [pages.WebTables] : 'Submit' was clicked
+2022-02-10 18:08:38  ERROR [pages.WebTables] : Cannot work with element org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[text()='firstName']/following::span[@id='delete-record-3']"}
+  (Session info: chrome=105.0.5195.127)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'DESKTOP-BALL94T', ip: '192.168.0.143', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ff3f13085812901adf7fcff5ff9d5069, findElement {using=xpath, value=//div[text()='firstName']/following::span[@id='delete-record-3']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.127, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\Users\ross2pc\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:61895}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:61895/devtoo..., se:cdpVersion: 105.0.5195.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ff3f13085812901adf7fcff5ff9d5069
+2022-02-10 18:08:38   INFO [webTablesTest.WebTablesTest] : Browser is closed
+2022-02-10 18:09:41   INFO [webTablesTest.WebTablesTest] : Web browser is opened
+2022-02-10 18:09:43   INFO [pages.WebTables] : Page + ToolsQA is opened
+2022-02-10 18:09:43   INFO [pages.WebTables] : 'Add' was clicked
+2022-02-10 18:09:43   INFO [pages.WebTables] : field : First Name was filled in with : firstName
+2022-02-10 18:09:43   INFO [pages.WebTables] : field : Last Name was filled in with : LastName
+2022-02-10 18:09:43   INFO [pages.WebTables] : field : name@example.com was filled in with : fake@email.com
+2022-02-10 18:09:43   INFO [pages.WebTables] : field : Age was filled in with : 33
+2022-02-10 18:09:43   INFO [pages.WebTables] : field : Salary was filled in with : 3500
+2022-02-10 18:09:43   INFO [pages.WebTables] : field : Department was filled in with : IT
+2022-02-10 18:09:43   INFO [pages.WebTables] : 'Submit' was clicked
+2022-02-10 18:10:36  ERROR [pages.WebTables] : Cannot work with element org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[text()='firstName']/following::span[@id='delete-record-3']"}
+  (Session info: chrome=105.0.5195.127)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'DESKTOP-BALL94T', ip: '192.168.0.143', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a476b28240bc2fdc67da29e5a032d78d, findElement {using=xpath, value=//div[text()='firstName']/following::span[@id='delete-record-3']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.127, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\Users\ross2pc\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:62107}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:62107/devtoo..., se:cdpVersion: 105.0.5195.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a476b28240bc2fdc67da29e5a032d78d
+2022-02-10 18:10:37   INFO [webTablesTest.WebTablesTest] : Browser is closed
+2022-02-10 18:11:08   INFO [webTablesTest.WebTablesTest] : Web browser is opened
+2022-02-10 18:11:10   INFO [pages.WebTables] : Page + ToolsQA is opened
+2022-02-10 18:11:10   INFO [pages.WebTables] : 'Add' was clicked
+2022-02-10 18:11:10   INFO [pages.WebTables] : field : First Name was filled in with : firstName
+2022-02-10 18:11:10   INFO [pages.WebTables] : field : Last Name was filled in with : LastName
+2022-02-10 18:11:10   INFO [pages.WebTables] : field : name@example.com was filled in with : fake@email.com
+2022-02-10 18:11:10   INFO [pages.WebTables] : field : Age was filled in with : 33
+2022-02-10 18:11:11   INFO [pages.WebTables] : field : Salary was filled in with : 3500
+2022-02-10 18:11:11   INFO [pages.WebTables] : field : Department was filled in with : IT
+2022-02-10 18:11:11   INFO [pages.WebTables] : 'Submit' was clicked
+2022-02-10 18:14:32  ERROR [pages.WebTables] : Cannot work with element org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[text()='firstName']/following::span[@id='delete-record-3']"}
+  (Session info: chrome=105.0.5195.127)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'DESKTOP-BALL94T', ip: '192.168.0.143', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1d8193ae1c116a5ba90d9173d2a80cc6, findElement {using=xpath, value=//div[text()='firstName']/following::span[@id='delete-record-3']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.127, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\Users\ross2pc\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:62317}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:62317/devtoo..., se:cdpVersion: 105.0.5195.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 1d8193ae1c116a5ba90d9173d2a80cc6
+2022-02-10 18:14:33   INFO [webTablesTest.WebTablesTest] : Browser is closed
+2022-02-10 18:14:57   INFO [webTablesTest.WebTablesTest] : Web browser is opened
+2022-02-10 18:14:58   INFO [pages.WebTables] : Page + ToolsQA is opened
+2022-02-10 18:14:58   INFO [pages.WebTables] : 'Add' was clicked
+2022-02-10 18:14:59   INFO [pages.WebTables] : field : First Name was filled in with : firstName
+2022-02-10 18:14:59   INFO [pages.WebTables] : field : Last Name was filled in with : LastName
+2022-02-10 18:14:59   INFO [pages.WebTables] : field : name@example.com was filled in with : fake@email.com
+2022-02-10 18:14:59   INFO [pages.WebTables] : field : Age was filled in with : 33
+2022-02-10 18:14:59   INFO [pages.WebTables] : field : Salary was filled in with : 3500
+2022-02-10 18:14:59   INFO [pages.WebTables] : field : Department was filled in with : IT
+2022-02-10 18:14:59   INFO [pages.WebTables] : 'Submit' was clicked
+2022-02-10 18:15:01  ERROR [pages.WebTables] : Cannot work with element org.openqa.selenium.WebDriverException: unknown error: unhandled inspector error: {"code":-32000,"message":"Object id doesn't reference a Node"}
+  (Session info: chrome=105.0.5195.127)
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'DESKTOP-BALL94T', ip: '192.168.0.143', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [621431f72873976675710f9fa69c1239, getElementAccessibleName {id=06677e07-7c89-4c86-87a2-17efb9a4338d}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.127, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\Users\ross2pc\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:62998}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:62998/devtoo..., se:cdpVersion: 105.0.5195.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (621431f72873976675710f9fa69c1239)] -> xpath: //div[text()='firstName']/following::span[@title='Delete']]
+Session ID: 621431f72873976675710f9fa69c1239
+2022-02-10 18:15:02   INFO [webTablesTest.WebTablesTest] : Browser is closed
+2022-02-10 19:20:12   INFO [webTablesTest.WebTablesTest] : Web browser is opened
+2022-02-10 19:20:14   INFO [pages.WebTables] : Page + ToolsQA is opened
+2022-02-10 19:20:14   INFO [pages.WebTables] : 'Add' was clicked
+2022-02-10 19:20:14   INFO [pages.WebTables] : field : First Name was filled in with : firstName
+2022-02-10 19:20:14   INFO [pages.WebTables] : field : Last Name was filled in with : LastName
+2022-02-10 19:20:15   INFO [pages.WebTables] : field : name@example.com was filled in with : fake@email.com
+2022-02-10 19:20:15   INFO [pages.WebTables] : field : Age was filled in with : 33
+2022-02-10 19:20:15   INFO [pages.WebTables] : field : Salary was filled in with : 3500
+2022-02-10 19:20:15   INFO [pages.WebTables] : field : Department was filled in with : IT
+2022-02-10 19:20:15   INFO [pages.WebTables] : 'Submit' was clicked
+2022-02-10 19:20:15  ERROR [pages.WebTables] : Cannot work with element org.openqa.selenium.WebDriverException: unknown error: unhandled inspector error: {"code":-32000,"message":"Object id doesn't reference a Node"}
+  (Session info: chrome=105.0.5195.127)
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'DESKTOP-BALL94T', ip: '192.168.0.143', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [52436802b64101f049626cd78034dae5, getElementAccessibleName {id=8f368294-2249-4110-9c79-c821dcc88b9d}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.127, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\Users\ross2pc\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:50603}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50603/devtoo..., se:cdpVersion: 105.0.5195.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (52436802b64101f049626cd78034dae5)] -> xpath: //div[text()='firstName']/following::span[@title='Delete']]
+Session ID: 52436802b64101f049626cd78034dae5
+2022-02-10 19:20:16   INFO [webTablesTest.WebTablesTest] : Browser is closed
+2022-02-10 19:22:49   INFO [webTablesTest.WebTablesTest] : Web browser is opened
+2022-02-10 19:22:50   INFO [pages.WebTables] : Page + ToolsQA is opened
+2022-02-10 19:22:50   INFO [pages.WebTables] : 'Add' was clicked
+2022-02-10 19:22:50   INFO [pages.WebTables] : field : First Name was filled in with : firstName
+2022-02-10 19:22:50   INFO [pages.WebTables] : field : Last Name was filled in with : LastName
+2022-02-10 19:22:50   INFO [pages.WebTables] : field : name@example.com was filled in with : fake@email.com
+2022-02-10 19:22:50   INFO [pages.WebTables] : field : Age was filled in with : 33
+2022-02-10 19:22:50   INFO [pages.WebTables] : field : Salary was filled in with : 3500
+2022-02-10 19:22:50   INFO [pages.WebTables] : field : Department was filled in with : IT
+2022-02-10 19:22:51  ERROR [pages.WebTables] : Cannot work with element org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//button[@id='submit']"}
+  (Session info: chrome=105.0.5195.127)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'DESKTOP-BALL94T', ip: '192.168.0.143', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [162d23326eea09ad261ad1d8fd3bec8c, findElement {using=xpath, value=//button[@id='submit']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.127, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\Users\ross2pc\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:50902}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50902/devtoo..., se:cdpVersion: 105.0.5195.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 162d23326eea09ad261ad1d8fd3bec8c
+2022-02-10 19:22:51  ERROR [pages.WebTables] : Cannot work with element org.openqa.selenium.WebDriverException: unknown error: unhandled inspector error: {"code":-32000,"message":"Object id doesn't reference a Node"}
+  (Session info: chrome=105.0.5195.127)
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'DESKTOP-BALL94T', ip: '192.168.0.143', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [162d23326eea09ad261ad1d8fd3bec8c, getElementAccessibleName {id=2ce0e667-d432-4f06-a10d-96bef89bbd95}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.127, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\Users\ross2pc\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:50902}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50902/devtoo..., se:cdpVersion: 105.0.5195.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (162d23326eea09ad261ad1d8fd3bec8c)] -> xpath: //div[text()='firstName']/following::span[@title='Delete']]
+Session ID: 162d23326eea09ad261ad1d8fd3bec8c
+2022-02-10 19:22:51   INFO [webTablesTest.WebTablesTest] : Browser is closed
+2022-02-10 19:25:53   INFO [webTablesTest.WebTablesTest] : Web browser is opened
+2022-02-10 19:25:54   INFO [pages.WebTables] : Page + ToolsQA is opened
+2022-02-10 19:25:54   INFO [pages.WebTables] : 'Add' was clicked
+2022-02-10 19:25:55   INFO [pages.WebTables] : field : First Name was filled in with : firstName
+2022-02-10 19:25:55   INFO [pages.WebTables] : field : Last Name was filled in with : LastName
+2022-02-10 19:25:55   INFO [pages.WebTables] : field : name@example.com was filled in with : fake@email.com
+2022-02-10 19:25:55   INFO [pages.WebTables] : field : Age was filled in with : 33
+2022-02-10 19:25:55   INFO [pages.WebTables] : field : Salary was filled in with : 3500
+2022-02-10 19:25:55   INFO [pages.WebTables] : field : Department was filled in with : IT
+2022-02-10 19:25:55   INFO [pages.WebTables] : 'Submit' was clicked
+2022-02-10 19:26:06   INFO [webTablesTest.WebTablesTest] : Browser is closed
+2022-02-10 19:26:27   INFO [webTablesTest.WebTablesTest] : Web browser is opened
+2022-02-10 19:26:28   INFO [pages.WebTables] : Page + ToolsQA is opened
+2022-02-10 19:26:29   INFO [pages.WebTables] : 'Add' was clicked
+2022-02-10 19:26:29   INFO [pages.WebTables] : field : First Name was filled in with : firstName
+2022-02-10 19:26:29   INFO [pages.WebTables] : field : Last Name was filled in with : LastName
+2022-02-10 19:26:29   INFO [pages.WebTables] : field : name@example.com was filled in with : fake@email.com
+2022-02-10 19:26:29   INFO [pages.WebTables] : field : Age was filled in with : 33
+2022-02-10 19:26:29   INFO [pages.WebTables] : field : Salary was filled in with : 3500
+2022-02-10 19:26:29   INFO [pages.WebTables] : field : Department was filled in with : IT
+2022-02-10 19:26:29   INFO [pages.WebTables] : 'Submit' was clicked
+2022-02-10 19:26:31  ERROR [pages.WebTables] : Cannot work with element org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=105.0.5195.127)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#stale_element_reference
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'DESKTOP-BALL94T', ip: '192.168.0.143', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [813059a88c67e4df905ffcd89e8f8af0, clickElement {id=9aec48d6-339c-4095-9ed3-ee5ba83db37d}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.127, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\Users\ross2pc\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:51355}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51355/devtoo..., se:cdpVersion: 105.0.5195.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (813059a88c67e4df905ffcd89e8f8af0)] -> xpath: //div[text()='firstName']/following::span[@title='Delete']]
+Session ID: 813059a88c67e4df905ffcd89e8f8af0
+2022-02-10 19:26:32   INFO [webTablesTest.WebTablesTest] : Browser is closed
+2022-02-10 19:26:51   INFO [webTablesTest.WebTablesTest] : Web browser is opened
+2022-02-10 19:26:53   INFO [pages.WebTables] : Page + ToolsQA is opened
+2022-02-10 19:26:53   INFO [pages.WebTables] : 'Add' was clicked
+2022-02-10 19:26:53   INFO [pages.WebTables] : field : First Name was filled in with : firstName
+2022-02-10 19:26:53   INFO [pages.WebTables] : field : Last Name was filled in with : LastName
+2022-02-10 19:26:53   INFO [pages.WebTables] : field : name@example.com was filled in with : fake@email.com
+2022-02-10 19:26:53   INFO [pages.WebTables] : field : Age was filled in with : 33
+2022-02-10 19:26:54   INFO [pages.WebTables] : field : Salary was filled in with : 3500
+2022-02-10 19:26:54   INFO [pages.WebTables] : field : Department was filled in with : IT
+2022-02-10 19:26:54   INFO [pages.WebTables] : 'Submit' was clicked
+2022-02-10 19:27:20   INFO [webTablesTest.WebTablesTest] : Web browser is opened
+2022-02-10 19:27:21   INFO [pages.WebTables] : Page + ToolsQA is opened
+2022-02-10 19:27:21   INFO [pages.WebTables] : 'Add' was clicked
+2022-02-10 19:27:22   INFO [pages.WebTables] : field : First Name was filled in with : firstName
+2022-02-10 19:27:22   INFO [pages.WebTables] : field : Last Name was filled in with : LastName
+2022-02-10 19:27:22   INFO [pages.WebTables] : field : name@example.com was filled in with : fake@email.com
+2022-02-10 19:27:22   INFO [pages.WebTables] : field : Age was filled in with : 33
+2022-02-10 19:27:22   INFO [pages.WebTables] : field : Salary was filled in with : 3500
+2022-02-10 19:27:22   INFO [pages.WebTables] : field : Department was filled in with : IT
+2022-02-10 19:27:22   INFO [pages.WebTables] : 'Submit' was clicked
+2022-02-10 19:27:33   INFO [webTablesTest.WebTablesTest] : Browser is closed
+2022-02-10 19:30:43   INFO [webTablesTest.WebTablesTest] : Web browser is opened
+2022-02-10 19:30:45   INFO [pages.WebTables] : Page + ToolsQA is opened
+2022-02-10 19:30:45   INFO [pages.WebTables] : 'Add' was clicked
+2022-02-10 19:30:45   INFO [pages.WebTables] : field : First Name was filled in with : firstName
+2022-02-10 19:30:45   INFO [pages.WebTables] : field : Last Name was filled in with : LastName
+2022-02-10 19:30:45   INFO [pages.WebTables] : field : name@example.com was filled in with : fake@email.com
+2022-02-10 19:30:46   INFO [pages.WebTables] : field : Age was filled in with : 33
+2022-02-10 19:30:46   INFO [pages.WebTables] : field : Salary was filled in with : 3500
+2022-02-10 19:30:46   INFO [pages.WebTables] : field : Department was filled in with : IT
+2022-02-10 19:30:46   INFO [pages.WebTables] : 'Submit' was clicked
+2022-02-10 19:35:45   INFO [webTablesTest.WebTablesTest] : Web browser is opened
+2022-02-10 19:35:46   INFO [pages.WebTables] : Page + ToolsQA is opened
+2022-02-10 19:35:46   INFO [pages.WebTables] : 'Add' was clicked
+2022-02-10 19:35:46   INFO [pages.WebTables] : field : First Name was filled in with : firstName
+2022-02-10 19:35:46   INFO [pages.WebTables] : field : Last Name was filled in with : LastName
+2022-02-10 19:35:47   INFO [pages.WebTables] : field : name@example.com was filled in with : fake@email.com
+2022-02-10 19:35:47   INFO [pages.WebTables] : field : Age was filled in with : 33
+2022-02-10 19:35:47   INFO [pages.WebTables] : field : Salary was filled in with : 3500
+2022-02-10 19:35:47   INFO [pages.WebTables] : field : Department was filled in with : IT
+2022-02-10 19:35:47   INFO [pages.WebTables] : 'Submit' was clicked
+2022-02-10 19:35:58   INFO [webTablesTest.WebTablesTest] : Browser is closed
+2022-02-10 19:36:18   INFO [webTablesTest.WebTablesTest] : Web browser is opened
+2022-02-10 19:36:19   INFO [pages.WebTables] : Page + ToolsQA is opened
+2022-02-10 19:36:19   INFO [pages.WebTables] : 'Add' was clicked
+2022-02-10 19:36:19   INFO [pages.WebTables] : field : First Name was filled in with : firstName
+2022-02-10 19:36:19   INFO [pages.WebTables] : field : Last Name was filled in with : LastName
+2022-02-10 19:36:20   INFO [pages.WebTables] : field : name@example.com was filled in with : fake@email.com
+2022-02-10 19:36:20   INFO [pages.WebTables] : field : Age was filled in with : 33
+2022-02-10 19:36:20   INFO [pages.WebTables] : field : Salary was filled in with : 3500
+2022-02-10 19:36:20   INFO [pages.WebTables] : field : Department was filled in with : IT
+2022-02-10 19:36:20   INFO [pages.WebTables] : 'Submit' was clicked
+2022-02-10 19:36:21   INFO [webTablesTest.WebTablesTest] : Browser is closed

@@ -2,6 +2,7 @@ package pages;
 
 import org.apache.log4j.Logger;
 import org.junit.Assert;
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.PageFactory;
@@ -33,6 +34,16 @@ public class CommonActionWithElements {
         }
     }
 
+    protected void clickOnElement(String xPathLocator) {
+        try {
+            WebElement element = driver.findElement(By.xpath(xPathLocator));
+            clickOnElement(element);
+        } catch (Exception e) {
+            printErrorAndStopTest(e);
+
+        }
+    }
+
     public void fillInElement(WebElement element, String text){
         try {
             element.clear();
@@ -48,6 +59,7 @@ public class CommonActionWithElements {
         if (currentUrl.equals(url)) return true;
         else return false;
     }
+
 
     private void printErrorAndStopTest(Exception e) {
         logger.error("Cannot work with element " + e);
