@@ -39,4 +39,5 @@ public class BaseTest {
         driver.quit();
         logger.info("Browser is closed");
     }
+
 }

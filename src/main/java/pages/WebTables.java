@@ -13,7 +13,7 @@ import java.time.Duration;
 
 public class WebTables extends BasePage{
 
-    private String URL = "https://demoqa.com/webtables";
+    private String URL = baseUrl + getRelativeUrl();
 
     @FindBy(xpath = "//button[@id='addNewRecordButton']")
     private WebElement buttonAdd;
@@ -42,6 +42,11 @@ public class WebTables extends BasePage{
 
     private String deleteUserInTable = "//div[text()='%s']/following::span[@title='Delete']";
     private String userInTableLocator = ".//*[text()='%s']";
+
+    @Override
+    protected String getRelativeUrl() {
+        return "/webtables";
+    }
 
     public WebTables(WebDriver driver) {
         super(driver);

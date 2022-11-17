@@ -15,4 +15,5 @@ public class CheckboxTest extends BaseTest {
         String validationMessage = checkBoxPage.getValidationMessageText();
         Assert.assertEquals("Validation message is different","You have selected :downloadswordFileexcelFile", validationMessage);
     }
+
 }

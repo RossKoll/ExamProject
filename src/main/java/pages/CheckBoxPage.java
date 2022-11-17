@@ -15,7 +15,13 @@ public class CheckBoxPage extends BasePage{
     @FindBy(xpath = "//label[@for='tree-node-downloads']/descendant::span[1]")
     public WebElement checkboxDownload;
 
-    private String URL = "https://demoqa.com/checkbox";
+    private String URL = baseUrl + getRelativeUrl();
+
+    @Override
+    protected String getRelativeUrl() {
+        return "/checkbox";
+    }
+
     public CheckBoxPage(WebDriver driver) {
         super(driver);
     }

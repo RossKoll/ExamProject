@@ -5,7 +5,13 @@ import org.openqa.selenium.WebDriver;
 
 public class HomePage extends BasePage{
 
-    private final String URL = "https://demoqa.com/";
+    private final String URL = baseUrl + getRelativeUrl();
+
+    @Override
+    protected String getRelativeUrl() {
+        return "/";
+    }
+
     public HomePage(WebDriver driver) {
         super(driver);
     }
